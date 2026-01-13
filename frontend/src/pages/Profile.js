@@ -10,7 +10,6 @@ import {
   Avatar,
   Divider,
 } from '@mui/material';
-import { Person } from '@mui/icons-material';
 import { useAuth } from '../context/AuthContext';
 
 const Profile = () => {
